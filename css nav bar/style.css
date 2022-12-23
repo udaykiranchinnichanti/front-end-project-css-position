@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.nav_bar {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    background-color: rgb(70, 3, 70);
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+.nav_bar li {
+    color: rgb(153, 124, 143);
+    margin-bottom: 30px;
+    padding: 20px;
+    cursor: pointer;
+}
+.nav_bar li:hover {
+    background-color: rgb(9, 243, 40);
+}
+p {
+    margin-left: 310px;
+}
