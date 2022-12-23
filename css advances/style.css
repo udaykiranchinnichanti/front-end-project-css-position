@@ -1,0 +1,19 @@
+.heart { 
+    width:89px;
+    height: 100px;
+    animation: heartt 2s infinite;
+    padding: 50px 500px;
+}
+.HH{
+   padding:300px 700px; 
+}
+@keyframes heartt {
+0% {scale: 1
+}
+33% {scale: 3
+}
+66% {scale : 2
+}
+100% {scale : 1}
+
+}
